@@ -1,0 +1,698 @@
+{
+  "S1": {
+    "category": "Flowers",
+    "title": "Flower shape and milky sap"
+  },
+  "S2": {
+    "category": "Leaves",
+    "title": "Prickly leaves or head bracts"
+  },
+  "S3": {
+    "category": "Flowers",
+    "title": "Long outer straps on the flower head"
+  },
+  "S4": {
+    "category": "Flowers",
+    "title": "Colour of the outer straps"
+  },
+  "S5": {
+    "category": "Flowers",
+    "title": "Scales or hairs on the flower platform"
+  },
+  "A1": {
+    "category": "Leaves",
+    "title": "Spiny wings along the stem"
+  },
+  "A2": {
+    "category": "Fruits",
+    "title": "Soft hairs or other structures on fruit tops"
+  },
+  "A3": {
+    "category": "Fruits",
+    "title": "Fruit tops bare or bearing scales"
+  },
+  "A4": {
+    "category": "Fruits",
+    "title": "Fruit shape and enclosing bracts"
+  },
+  "A5": {
+    "category": "Flowers",
+    "title": "Single head, leafy stems and winged fruits"
+  },
+  "A6": {
+    "category": "Bracts",
+    "title": "Papery parts of the head bracts"
+  },
+  "A7": {
+    "category": "Leaves",
+    "title": "Leaf divisions and shape of bracts"
+  },
+  "A8": {
+    "category": "Flowers",
+    "title": "Branch height and bracts below the head"
+  },
+  "A9": {
+    "category": "Leaves",
+    "title": "Leaf shape and curved fruits"
+  },
+  "A10": {
+    "category": "Fruits",
+    "title": "Ripe head shape, fruit scales and flower colour"
+  },
+  "A11": {
+    "category": "Fruits",
+    "title": "Feathery or unbranched tuft hairs"
+  },
+  "A12": {
+    "category": "Fruits",
+    "title": "Length of the fruit beak"
+  },
+  "A13": {
+    "category": "Bracts",
+    "title": "Rows and lengths of head bracts"
+  },
+  "A14": {
+    "category": "Fruits",
+    "title": "Outer fruit tops and flower platform"
+  },
+  "A15": {
+    "category": "Leaves",
+    "title": "Leaf veins, joined bracts and fruit shape"
+  },
+  "A16": {
+    "category": "Flowers",
+    "title": "Scales on the flower platform"
+  },
+  "A17": {
+    "category": "Bracts",
+    "title": "Shape and arrangement of outer bracts"
+  },
+  "A18": {
+    "category": "Leaves",
+    "title": "Branched plant hairs and outer fruit tufts"
+  },
+  "A19": {
+    "category": "Fruits",
+    "title": "Fruit ribs, tuft attachment and plant hairs"
+  },
+  "A20": {
+    "category": "Fruits",
+    "title": "Fruit length and a very short hair fringe"
+  },
+  "A21": {
+    "category": "Fruits",
+    "title": "Beak present or absent on fruit"
+  },
+  "A22": {
+    "category": "Flowers",
+    "title": "Leafless flower stalk or leafy stems"
+  },
+  "A23": {
+    "category": "Fruits",
+    "title": "Bumps or prickles on the fruit surface"
+  },
+  "A24": {
+    "category": "Fruits",
+    "title": "Fruit cross-section and beak tip"
+  },
+  "A25": {
+    "category": "Fruits",
+    "title": "Jointed beak and head stalks"
+  },
+  "A26": {
+    "category": "Leaves",
+    "title": "Leaf bases running down the stem"
+  },
+  "A27": {
+    "category": "Fruits",
+    "title": "One or two sets of tuft hairs"
+  },
+  "A28": {
+    "category": "Bracts",
+    "title": "Bract rows, flower colour and rootstock"
+  },
+  "A29": {
+    "category": "Fruits",
+    "title": "Beak length and rootstock"
+  },
+  "A30": {
+    "category": "Fruits",
+    "title": "Bract cup, fruit, beak and tuft measurements"
+  },
+  "A31": {
+    "category": "Fruits",
+    "title": "Beak thickness and flattened fruits"
+  },
+  "A32": {
+    "category": "Leaves",
+    "title": "Star-shaped plant hairs and fruit ribs"
+  },
+  "A33": {
+    "category": "Fruits",
+    "title": "Fruit rim, tuft rows and runners"
+  },
+  "A34": {
+    "category": "Leaves",
+    "title": "Basal leaves, hair covering and plant lifespan"
+  },
+  "A35": {
+    "category": "Leaves",
+    "title": "Runners, basal leaves and leafless stalks"
+  },
+  "A36": {
+    "category": "Fruits",
+    "title": "Fruit shape and hardening head base"
+  },
+  "A37": {
+    "category": "Fruits",
+    "title": "Fruit ribs, bumps and falling tuft"
+  },
+  "A38": {
+    "category": "Fruits",
+    "title": "Tuft stiffness and leaf veins"
+  },
+  "A39": {
+    "category": "Fruits",
+    "title": "Fruit ribs, flower colour and bracts"
+  },
+  "A40": {
+    "category": "Fruits",
+    "title": "Fruit surface and horns on inner bracts"
+  },
+  "B1": {
+    "category": "Flowers",
+    "title": "Separate male and female heads"
+  },
+  "B2": {
+    "category": "Flowers",
+    "title": "Outer flower shape and style hairs"
+  },
+  "B3": {
+    "category": "Leaves",
+    "title": "Spiny teeth or tips and fruit tuft"
+  },
+  "B4": {
+    "category": "Flowers",
+    "title": "Yellow or white straps and spines"
+  },
+  "B5": {
+    "category": "Bracts",
+    "title": "Hooked spines on head bracts"
+  },
+  "B6": {
+    "category": "Flowers",
+    "title": "One flower or many in each head"
+  },
+  "B7": {
+    "category": "Bracts",
+    "title": "Bracts around a compound head and lifespan"
+  },
+  "B8": {
+    "category": "Bracts",
+    "title": "Fused, hardened bracts and milky sap"
+  },
+  "B9": {
+    "category": "Leaves",
+    "title": "Small spines on upper leaf surfaces"
+  },
+  "B10": {
+    "category": "Fruits",
+    "title": "Feathery tuft or other fruit topping"
+  },
+  "B11": {
+    "category": "Leaves",
+    "title": "Continuous wing along the stem"
+  },
+  "B12": {
+    "category": "Flowers",
+    "title": "Deep pits or long hairs on platform"
+  },
+  "B13": {
+    "category": "Bracts",
+    "title": "Branched bract spines and fruit scar"
+  },
+  "B14": {
+    "category": "Fruits",
+    "title": "Hairy or nearly hairless ripe fruits"
+  },
+  "B15": {
+    "category": "Bracts",
+    "title": "Papery bract edges and leaf spines"
+  },
+  "B16": {
+    "category": "Bracts",
+    "title": "Spreading, petal-like inner bracts"
+  },
+  "B17": {
+    "category": "Bracts",
+    "title": "Branched spiny ends of middle bracts"
+  },
+  "B18": {
+    "category": "Fruits",
+    "title": "Raised waxy bump on fruit top"
+  },
+  "B19": {
+    "category": "Fruits",
+    "title": "Longer inner tuft hairs and leaf spines"
+  },
+  "B20": {
+    "category": "Fruits",
+    "title": "Waxy bump, attachment scar and flower tube"
+  },
+  "B21": {
+    "category": "Bracts",
+    "title": "Bract width, head size and fruit ribs"
+  },
+  "B22": {
+    "category": "Leaves",
+    "title": "Long divided leaves around the head"
+  },
+  "B23": {
+    "category": "Bracts",
+    "title": "Bracts, tuft bristles and side scar"
+  },
+  "B24": {
+    "category": "Flowers",
+    "title": "Deeply pitted flower platform"
+  },
+  "B25": {
+    "category": "Leaves",
+    "title": "Spines on the leaves"
+  },
+  "B26": {
+    "category": "Flowers",
+    "title": "Scales or long hairs on platform"
+  },
+  "B27": {
+    "category": "Fruits",
+    "title": "Tuft scales, inner bracts and lifespan"
+  },
+  "B28": {
+    "category": "Fruits",
+    "title": "One longer hair in the inner fruit tuft"
+  },
+  "B29": {
+    "category": "Flowers",
+    "title": "Scales or hairs between flowers"
+  },
+  "B30": {
+    "category": "Fruits",
+    "title": "Scale-like tuft or small crown"
+  },
+  "B31": {
+    "category": "Flowers",
+    "title": "Head size, flower colour and lifespan"
+  },
+  "B32": {
+    "category": "Fruits",
+    "title": "Tuft attachment and plant covering"
+  },
+  "B33": {
+    "category": "Fruits",
+    "title": "Tuft hairs falling separately or as a ring"
+  },
+  "B34": {
+    "category": "Leaves",
+    "title": "Stem wings and spiny bract edges"
+  },
+  "B35": {
+    "category": "Flowers",
+    "title": "Stamen stalks, pollen sacs and fruit grooves"
+  },
+  "C1": {
+    "category": "Flowers",
+    "title": "Scales or bristles on the platform"
+  },
+  "C2": {
+    "category": "Leaves",
+    "title": "Leaf arrangement and glandular bracts"
+  },
+  "C3": {
+    "category": "Leaves",
+    "title": "Plant height and broad heart-based leaves"
+  },
+  "C4": {
+    "category": "Fruits",
+    "title": "Fruit crown or falling pointed scales"
+  },
+  "C5": {
+    "category": "Fruits",
+    "title": "Fruit topping, head bracts and leaves"
+  },
+  "C6": {
+    "category": "Bracts",
+    "title": "Bract edges and strap length"
+  },
+  "C7": {
+    "category": "Flowers",
+    "title": "Head arrangement and platform scales"
+  },
+  "C8": {
+    "category": "Fruits",
+    "title": "Hairy fruit tuft present or absent"
+  },
+  "C9": {
+    "category": "Bracts",
+    "title": "Number of bract rows and style tips"
+  },
+  "C10": {
+    "category": "Leaves",
+    "title": "Leaves appearing after flowering"
+  },
+  "C11": {
+    "category": "Bracts",
+    "title": "Head bract shape and extra outer bracts"
+  },
+  "C12": {
+    "category": "Fruits",
+    "title": "Tiny scales at the tuft base"
+  },
+  "C13": {
+    "category": "Flowers",
+    "title": "Outer strap length compared with tuft"
+  },
+  "C14": {
+    "category": "Fruits",
+    "title": "Central fruits fertile or sterile"
+  },
+  "C15": {
+    "category": "Leaves",
+    "title": "Dark vein network beneath leaves"
+  },
+  "C16": {
+    "category": "Flowers",
+    "title": "Style tips, basal leaves and bract rows"
+  },
+  "C17": {
+    "category": "Fruits",
+    "title": "Outer and inner fruit shapes"
+  },
+  "C18": {
+    "category": "Fruits",
+    "title": "Wings, curved fruits and bracts"
+  },
+  "D1": {
+    "category": "Flowers",
+    "title": "Scales on the flower platform"
+  },
+  "D2": {
+    "category": "Leaves",
+    "title": "Basal heart-shaped leaves and flower shape"
+  },
+  "D3": {
+    "category": "Leaves",
+    "title": "Opposite or alternate leaves and scales"
+  },
+  "D4": {
+    "category": "Fruits",
+    "title": "Flattened fruits with edge ribs or wings"
+  },
+  "D5": {
+    "category": "Fruits",
+    "title": "Papery wings or ribs on central fruits"
+  },
+  "D6": {
+    "category": "Flowers",
+    "title": "Flower tube base and leaf divisions"
+  },
+  "D7": {
+    "category": "Flowers",
+    "title": "Pouched flower base and fruit crown"
+  },
+  "D8": {
+    "category": "Flowers",
+    "title": "Spur at the flower tube base"
+  },
+  "D9": {
+    "category": "Fruits",
+    "title": "Hairy tuft or other fruit topping"
+  },
+  "D10": {
+    "category": "Flowers",
+    "title": "Strap length beyond the head bracts"
+  },
+  "D11": {
+    "category": "Fruits",
+    "title": "Four tuft hairs and four scales"
+  },
+  "D12": {
+    "category": "Leaves",
+    "title": "Leaf position, head clusters and height"
+  },
+  "D13": {
+    "category": "Flowers",
+    "title": "Fertile or sterile outer strap flowers"
+  },
+  "D14": {
+    "category": "Leaves",
+    "title": "Stickiness, lifespan and fruit shape"
+  },
+  "D15": {
+    "category": "Flowers",
+    "title": "Rows and widths of outer straps"
+  },
+  "D16": {
+    "category": "Fruits",
+    "title": "Outer and central fruit shapes"
+  },
+  "D17": {
+    "category": "Fruits",
+    "title": "Flattened fruits, ribs and leaf position"
+  },
+  "D18": {
+    "category": "Flowers",
+    "title": "Shape of the ripe flower platform"
+  },
+  "D19": {
+    "category": "Fruits",
+    "title": "Fruit ribs and reddish-brown glands"
+  },
+  "D20": {
+    "category": "Leaves",
+    "title": "Leaf divisions and fruit ribs"
+  },
+  "E1": {
+    "category": "Flowers",
+    "title": "Separate male and female heads"
+  },
+  "E2": {
+    "category": "Flowers",
+    "title": "Head and flower sizes"
+  },
+  "E3": {
+    "category": "Leaves",
+    "title": "Leaf divisions, scent and lifespan"
+  },
+  "E4": {
+    "category": "Fruits",
+    "title": "Scales wrapping fruits and female flowers"
+  },
+  "E5": {
+    "category": "Fruits",
+    "title": "Thin scales or hardened hoods"
+  },
+  "E6": {
+    "category": "Leaves",
+    "title": "Leaf arrangement and enclosing scales"
+  },
+  "E7": {
+    "category": "Fruits",
+    "title": "Fruit tufts and stem growth"
+  },
+  "E8": {
+    "category": "Fruits",
+    "title": "Tuft hair tips and head clusters"
+  },
+  "E9": {
+    "category": "Fruits",
+    "title": "Shape and position of enclosing scales"
+  },
+  "E10": {
+    "category": "Flowers",
+    "title": "Scales, bristles or many hairs at flower bases"
+  },
+  "E11": {
+    "category": "Leaves",
+    "title": "Leaf arrangement and barbed fruit points"
+  },
+  "E12": {
+    "category": "Flowers",
+    "title": "Spongy flower tube base around fruit"
+  },
+  "E13": {
+    "category": "Leaves",
+    "title": "Worm-like leaf divisions"
+  },
+  "E14": {
+    "category": "Leaves",
+    "title": "Stemless plant and basal rosette"
+  },
+  "E15": {
+    "category": "Flowers",
+    "title": "Style branch tips and leaf divisions"
+  },
+  "E16": {
+    "category": "Flowers",
+    "title": "Outer flowers compared with central flowers"
+  },
+  "E17": {
+    "category": "Leaves",
+    "title": "Annual, biennial or perennial herb"
+  },
+  "E18": {
+    "category": "Fruits",
+    "title": "Number and form of tuft scales"
+  },
+  "E19": {
+    "category": "Bracts",
+    "title": "Inner bract length and fruit scales"
+  },
+  "E20": {
+    "category": "Bracts",
+    "title": "Bract end attachments and fruit scar"
+  },
+  "E21": {
+    "category": "Fruits",
+    "title": "Longer bristles inside the tuft"
+  },
+  "E22": {
+    "category": "Fruits",
+    "title": "Tuft scales, bristles and flower colour"
+  },
+  "E23": {
+    "category": "Fruits",
+    "title": "Inner tuft bristle and black bract tips"
+  },
+  "E24": {
+    "category": "Fruits",
+    "title": "Fruit tuft and wrinkled fruit surface"
+  },
+  "E25": {
+    "category": "Bracts",
+    "title": "Dense yellow felt on head bracts"
+  },
+  "E26": {
+    "category": "Bracts",
+    "title": "Width of bract end attachments"
+  },
+  "E27": {
+    "category": "Leaves",
+    "title": "Height, underground stems and bract tips"
+  },
+  "E28": {
+    "category": "Fruits",
+    "title": "Feathery or non-feathery tuft"
+  },
+  "E29": {
+    "category": "Bracts",
+    "title": "Bract cup width and bract shape"
+  },
+  "E30": {
+    "category": "Leaves",
+    "title": "Shrub or herb and leaf divisions"
+  },
+  "E31": {
+    "category": "Fruits",
+    "title": "Split tuft scales and woody base"
+  },
+  "E32": {
+    "category": "Leaves",
+    "title": "Leaf hair covering"
+  },
+  "E33": {
+    "category": "Fruits",
+    "title": "Longer inner bristles and tuft attachment"
+  },
+  "F1": {
+    "category": "Flowers",
+    "title": "Outer female flowers or flowers alike"
+  },
+  "F2": {
+    "category": "Leaves",
+    "title": "Basal heart-shaped leaves and flowering time"
+  },
+  "F3": {
+    "category": "Fruits",
+    "title": "Fruit tuft or small crown"
+  },
+  "F4": {
+    "category": "Fruits",
+    "title": "Two weak bristles or tufts on all fruits"
+  },
+  "F5": {
+    "category": "Bracts",
+    "title": "Leaf-like or papery head bracts"
+  },
+  "F6": {
+    "category": "Fruits",
+    "title": "Scales below tuft and leaf covering"
+  },
+  "F7": {
+    "category": "Fruits",
+    "title": "Rounded or flattened fruits and lifespan"
+  },
+  "F8": {
+    "category": "Flowers",
+    "title": "Female flower shape and stem leaves"
+  },
+  "F9": {
+    "category": "Fruits",
+    "title": "Number of tuft hairs and head clusters"
+  },
+  "F10": {
+    "category": "Flowers",
+    "title": "Female flower numbers and bract colour"
+  },
+  "F11": {
+    "category": "Fruits",
+    "title": "Fruit length, beak and leaf divisions"
+  },
+  "F12": {
+    "category": "Flowers",
+    "title": "One flower per head and compound heads"
+  },
+  "F13": {
+    "category": "Fruits",
+    "title": "Hairy fruit tuft or bare top / crown"
+  },
+  "F14": {
+    "category": "Leaves",
+    "title": "Opposite, alternate or basal leaves"
+  },
+  "F15": {
+    "category": "Flowers",
+    "title": "Separate male and female plants"
+  },
+  "F16": {
+    "category": "Bracts",
+    "title": "One row or many rows of head bracts"
+  },
+  "F17": {
+    "category": "Bracts",
+    "title": "Leaf-like or papery head bracts"
+  },
+  "F18": {
+    "category": "Leaves",
+    "title": "Plant height, leaf divisions and falling tuft"
+  },
+  "F19": {
+    "category": "Fruits",
+    "title": "Fruit cross-section and number of ribs"
+  },
+  "F20": {
+    "category": "Flowers",
+    "title": "Tiny hanging heads or larger heads"
+  },
+  "F21": {
+    "category": "Leaves",
+    "title": "Plant height and lifespan"
+  },
+  "F22": {
+    "category": "Fruits",
+    "title": "Fruit ribs, crown and leaf divisions"
+  },
+  "F23": {
+    "category": "Fruits",
+    "title": "Fruit glands, ribs and leaf covering"
+  }
+}
